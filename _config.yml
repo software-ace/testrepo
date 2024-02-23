@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ahmad Abu Yahia"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Automation Engineer | Software Quality Assurance Engineer | Bugs Hunter | I improve software quality and customer satisfaction through effective testing and defect tracking."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
